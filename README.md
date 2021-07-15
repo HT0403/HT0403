@@ -31,16 +31,6 @@ No Activity tracked this Week
 
 <!--END_SECTION:waka-->
 
-  
-
-
-  <details>
-  <summary>GitHub统计信息</summary>
-
-  [![](https://github-readme-stats.vercel.app/api?theme=onedark&username=huangtingdt)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api?theme=onedark&username=huangtingdt)](https://github.com/anuraghazra/github-readme-stats)
 
   [![huangtingdt's contribution graph as a Game of Life](https://github4life.herokuapp.com/huangtingdt.gif)](https://github4life.herokuapp.com/huangtingdt)
-
-  </details>
-
-  
