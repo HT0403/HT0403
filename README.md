@@ -1,7 +1,6 @@
-- <h2 align="center">👋 欢迎访问我的GitHub</h2>
+<h2 align="center">👋 欢迎访问我的GitHub</h2>
   <p align="center">
     <a href="https://github.com/Huangtingdt/Huangtingdt"><img src="https://img.shields.io/badge/GitHub-ff79c6" alt="github"></a>
-    <a href="https://gitee.com/Huangtingdt"><img src="https://img.shields.io/badge/Gitee-fe7300" alt="gitee"></a>
     <a href="https://blog.csdn.net/qq_43531216"><img src="https://img.shields.io/badge/CSDN-cf000e" alt="csdn"></a>
   </p>
 
@@ -38,31 +37,7 @@ No Activity tracked this Week
   <details>
   <summary>GitHub统计信息</summary>
 
-  <br/>
-
-  > 动态太少，不好意思展示
-  >
-  > 下面的GitHub统计信息是来自于[github-readme-stats](https://github.com/anuraghazra/github-readme-stats)项目，里边有[中文文档](https://github.com/anuraghazra/github-readme-stats/blob/master/readme_cn.md)
-
-  <a href="https://github.com/eternidad33/huangtingdt">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=huangtingdt&show_icons=true" />
-  </a>
-  <br/>
-
-  ---
-
-  *近期更新的仓库*
-
-  <a href="https://github.com/huangtingdt/huangtingdt">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=huangtingdt&repo=huangtingdt" />
-  </a>    
-  <a href="https://gitee.com/huangtingdt/algorithm_learn">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=huangtingdt&repo=algorithm_learn" />
-  </a>
-
-  <br/>
-
-  <br/>
+  [![](https://github-readme-stats.vercel.app/api?theme=onedark&username=huangtingdt)](https://github.com/anuraghazra/github-readme-stats)
 
   [![huangtingdt's contribution graph as a Game of Life](https://github4life.herokuapp.com/huangtingdt.gif)](https://github4life.herokuapp.com/huangtingdt)
 
