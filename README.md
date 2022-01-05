@@ -28,16 +28,16 @@
 
   <!--START_SECTION:waka-->
 ```text
-Week: 27 December, 2021 - 03 January, 2022
+Week: 28 December, 2021 - 04 January, 2022
 
 💬 编程语言: 
-XML               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
+No Activity tracked this Week
 
 🔥 常用编辑器: 
-IntelliJ          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
+No Activity tracked this Week
 
 💻 操作系统: 
-Windows           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
+No Activity tracked this Week
 
 ```
 
