@@ -24,25 +24,7 @@
 
 
 
-  **本周编码时长**
 
-  <!--START_SECTION:waka-->
-```text
-Week: 13 May, 2022 - 20 May, 2022
-
-💬 编程语言: 
-XML               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
-
-🔥 常用编辑器: 
-IntelliJ          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
-
-💻 操作系统: 
-Mac               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
-
-```
-
-
-<!--END_SECTION:waka-->
 
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=huangtingdt&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>
