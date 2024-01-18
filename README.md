@@ -26,7 +26,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=ht0403&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>
 </P>
 
-  [![huangtingdt's contribution graph as a Game of Life](https://github4life.herokuapp.com/huangtingdt.gif)](https://github4life.herokuapp.com/huangtingdt)
+  [![huangtingdt's contribution graph as a Game of Life](https://github4life.herokuapp.com/huangtingdt.gif)](https://github4life.herokuapp.com/ht0403)
 
-![YuZhangWang's Language Stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=huangtingdt&show_icons=true)
+![YuZhangWang's Language Stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ht0403&show_icons=true)
 
