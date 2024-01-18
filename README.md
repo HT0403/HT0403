@@ -9,18 +9,14 @@
 
 ## 🤵 About Me
 
-  - Huangting,一名小白程序员
-  - 希望成为一名算法工程师,研究机器学习,推荐系统
-  - 正在准备2022考研,希望一战成硕
+  - Huangting,a graduate student
+  - Research direction: multi-modal fusion and image generation
 
 ## 💻 Hobbies
 
   - Shell
   - Coding
-  - Linux
-  - 追剧
-
-## 🏆 Github Status
+  - Machine Learning
 
 
 
